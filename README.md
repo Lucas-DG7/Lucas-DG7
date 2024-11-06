@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev._.dg7?igsh=MWdsb3BhOWxoZHV3ag==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-dg7-37l1u9)
 
-![DEV-DG7 GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-DG7&show_icons=true&theme=tokyonight&count_private=true)
+![Lucas-DG7 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-DG7&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Tecnologias que tenho conhecimento:
 
