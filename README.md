@@ -1,7 +1,7 @@
 ## 🌟 Inovando, Aprendendo e Transformando Desafios em Soluções Excepcionais: A Jornada de Lucas na Programação 🚀
 
 [![BLOG](https://img.shields.io/badge/BLOGGER-D2691E?style=for-the-badge&logo=BLOGGER&logoColor=white)](http://dev-dg7.blogspot.com/)
-[![Portfolio](https://img.shields.io/badge/DISCORD-0000FF?style=for-the-badge&logo=DISCORD&logoColor=white)](https://dg7-pfo.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0000FF?style=for-the-badge&logo=PORTFOLIO&logoColor=white)](https://dg7-pfo.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev._.dg7?igsh=MWdsb3BhOWxoZHV3ag==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-dg7-37l1u9)
 
